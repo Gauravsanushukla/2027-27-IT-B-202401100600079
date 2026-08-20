@@ -1,0 +1,3 @@
+# TODO: kustomize overlay for dev environment
+resources:
+  - ../../base
